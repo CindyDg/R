@@ -1,4 +1,4 @@
 library("openxlsx")
 
-findata = read.xlsx("data/06-0801-0619938-00_Transactions_2018-04-01_2019-02-01.xlsx",1)
+findata = read.xlsx("data/Transactions_2018-04-01_2019-02-01.xlsx",1)
 dataofAcompany = read.xlsx("data/Financial Analysis of A company.xlsx",5)
